@@ -5,12 +5,6 @@ body{
     text-align:center;
 }
 
-pre.code{
-    margin-top: 0px;
-    display:inline-block;
-    text-align: left;
-}
-
 ul{
     max-width:300px;
     margin-top: 0px;
